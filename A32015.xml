@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A part of the late King's answer to the humble petition and advice of both Houses of Parliament sent unto His Majesty with nineteen propositions the second of June, 1642 printed at the request and charge of Sir Francis Nethersole knight, for the setling [sic] of the mindes of all the good people of this kingdom in the love of the ancient legal form of government, whosoever may become the governor thereof ; with two letters of the said Sir Francis Nethersole, one already printed before his project for an equitable and lasting peace, and the other a written letter therewith sent to divers persons, never before printed.</title>
+            <author>Charles I, King of England, 1600-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32015</idno>
+            <idno type="STC">Wing C2536</idno>
+            <idno type="STC">ESTC R29200</idno>
+            <idno type="EEBO-CITATION">10856082</idno>
+            <idno type="OCLC">ocm 10856082</idno>
+            <idno type="VID">46122</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46122)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1419:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A part of the late King's answer to the humble petition and advice of both Houses of Parliament sent unto His Majesty with nineteen propositions the second of June, 1642 printed at the request and charge of Sir Francis Nethersole knight, for the setling [sic] of the mindes of all the good people of this kingdom in the love of the ancient legal form of government, whosoever may become the governor thereof ; with two letters of the said Sir Francis Nethersole, one already printed before his project for an equitable and lasting peace, and the other a written letter therewith sent to divers persons, never before printed.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Nethersole, Francis, Sir, 1587-1659.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46122:1" rendition="simple:additions"/>
+            <p>A Part of the Late King's ANSWER To the Humble PETITION and ADVICE Of Both Houſes of Parliament Sent unto his Majeſty with nine<g ref="char:EOLhyphen"/>teen Propoſitions the ſecond of <hi>June</hi> 1642.</p>
+            <q>
+               <p>My Son, fear thou THE LORD, AND THE KING, and meddle not with them that are given to change. For their calamity ſhall riſe ſuddenly, and who knoweth the ruine of THEM BOTH,</p>
+               <bibl>
+                  <hi>Prov. 24.21, 22.</hi>
+               </bibl>
+               <p>Him that ſaith to the wicked thou art righteous, him ſhall the people curſe, Nations ſhall abhor him,</p>
+               <bibl>
+                  <hi>Prov. 24.24.</hi>
+               </bibl>
+            </q>
+            <p>Printed at the Requeſt and Charge of Sir <hi>Francis Netherſole</hi> Knight, for the ſetling of the mindes of all the good people of this Kingdom in the love of the ancient Legal form of Government, whoſoever may become the Governor thereof.</p>
+            <p>With two Letters of the ſaid Sir <hi>Francis Netherſole,</hi> one already printed before his Project for an equitable and laſting Peace, and the other a written Letter therewith ſent to divers perſons, never before Printed.</p>
+            <p>Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:46122:2"/>
+            <pb n="1" facs="tcp:46122:2"/>
+            <head>A part of the late Kings Anſwer to the humble Petition and Advice of both Houſes of Parliament ſent unto his Majeſty, with nineteen Propoſitions the ſecond of <hi>June</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E ſuppoſe theſe Demands by this time to appear ſuch as the De<g ref="char:EOLhyphen"/>manders cannot be ſuppoſed to have any ſuch reall fear of us as hath been long pretended, they are too much in the ſtyle, not onely of equals, but of Conquerours, and as little to be in<g ref="char:EOLhyphen"/>tended for removing of jealouſies (for which end they are ſaid to be asked, and that is not as Merchants ask at firſt much more then they will take, but as moſt neceſſary to effect it which (if they be) God help this poor Kingdom, and thoſe who are in the hands of ſuch perſons, whoſe jealouſies nothing elſe will remove) which indeed is ſuch a way, as if here being differences and ſuits between two per<g ref="char:EOLhyphen"/>ſons, where of one would have from the other ſe<g ref="char:EOLhyphen"/>veral parcels of his ancient Land, he ſhould propoſe
+<pb n="2" facs="tcp:46122:3"/> to him by way of accommodation, that he would quit to him all thoſe in queſtion, with the reſt of his Eſtate, as the moſt neceſſarie and effectuall means to remove all thoſe ſuits and differences. But we call God to witneſs, that as for our Subjects ſake theſe Rights are veſted in us, ſo for their ſakes, as well as for our own, We are reſolved not to quit them, nor to ſubvert, (though in a Parliamentary way) the anci<g ref="char:EOLhyphen"/>ent, equal, happy, well-poiſed, and never-enough commended Conſtitution of the Government of this Kingdome, nor to make our Self of a King of <hi>England</hi> a Duke of <hi>Venice,</hi> and this of a Kingdome a Republique.</p>
+            <p>There being three kinds of Government amongſt men, Abſolute Monarchie, Ariſtocracy, and De<g ref="char:EOLhyphen"/>mocracy, and all theſe having their particular con<g ref="char:EOLhyphen"/>veniences and inconveniencies. The experience and wiſdome of your Anceſtors hath ſo moulded this out of a mixture of theſe, as to give to this Kingdome (as far as humane prudence can provide) the convenien<g ref="char:EOLhyphen"/>cies of all three, without the inconveniencies of any one, as long as the Balance hangs even betweene the three Eſtates, and they run joyntlie on in their proper Chanel (begetting Verdure and Fertility in the Meadows on both ſides) and the overflowing of either on either ſide raiſe no deluge or Inundation. The ill of abſolute Monarchie is Tyranny, the ill of Ariſtocracy is Faction and Diviſion, the ills of Democracy are Tumults, Violence and Licenti<g ref="char:EOLhyphen"/>ouſneſſe. The good of Monarchie is the uniting a Nation under one Head to reſiſt invaſion from a<g ref="char:EOLhyphen"/>broad, and Inſurrection at home: The good of A<g ref="char:EOLhyphen"/>riſtocracie is the Conjunction of Counſel in the ableſt
+<pb n="3" facs="tcp:46122:3" rendition="simple:additions"/> perſons of a State for the publick benefit: The good of Democracie is Liberty, and the Courage and Induſtrie which Libertie begets.</p>
+            <p>In this Kingdome the Laws are joyntlie made by a King, by a Houſe of Peeres, and by a Houſe of Commons choſen by the People, all having free Votes and particular Priviledges: The Government according to theſe Laws, is truſted to the King, Pow<g ref="char:EOLhyphen"/>er of Treaties of War and Peace, of making Peers, of chooſing Officers and Councellours for State, Judges for Law, Commanders for Forts and Caſtles, giving Commiſſions for raiſing men to make Warre abroad, or to prevent or provide againſt Invaſions or Inſurrections at home, benefit of Confiſcations, pow<g ref="char:EOLhyphen"/>er of pardoning, and ſome more of the like kinde are placed in the King. And this kinde of regula<g ref="char:EOLhyphen"/>ted Monarchie having this power to preſerve that Authoritie without which it would be diſabled to preſerve the Laws in their Force, and the Subjects in their liberties and proprieties, is intended to draw to him ſuch a reſpect and relation from the great Ones, as may hinder the ills of Diviſion and Faction, and ſuch a fear and reverence from the peo<g ref="char:EOLhyphen"/>ple, as may hinder tumults, violence, and licentiouſ<g ref="char:EOLhyphen"/>neſs. Again, that the Prince may not make uſe of this high and perpetual power to the hurt of thoſe for whoſe good he hath it, and make uſe of the name of Publick neceſſitie for the gain of his private Favou<g ref="char:EOLhyphen"/>rites and Followers, to the detriment of his people, the Houſe of Commons (an excellent Conſerver of Libertie, but never intended for any ſhare in Govern<g ref="char:EOLhyphen"/>ment, or the chuſing of them that ſhould governe) is ſolely intruſted with the firſt Propoſitions concern<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:46122:4"/> Leavies of Money<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (which is the ſinews as well of Peace as War) and the impeaching of thoſe, who for their own ends, though countenanced by any ſur<g ref="char:EOLhyphen"/>reptitiouſly gotten Command of the King have viola<g ref="char:EOLhyphen"/>ted that Law, which he is bound (When he knows it) to protect, and to the protection of which they were bound to adviſe him, at leaſt not to ſerve him in the contrary. And the Lords being truſted with a Judi<g ref="char:EOLhyphen"/>catory power, are an excellent Screen and Bank be<g ref="char:EOLhyphen"/>tween the Prince and People, to aſſiſt each againſt a<g ref="char:EOLhyphen"/>ny incroachments of the other, and by juſt judge<g ref="char:EOLhyphen"/>ments to preſerve that Law, which ought he to be the Rule of every one of the three. For the better en<g ref="char:EOLhyphen"/>abling them in this, beyond the examples of any of our Anceſtors; We were willingly contented to oblige our ſelf, both to call a Parliament every three years, and not to diſſolve it in fifty dayes, and for the preſent exigent, the better to raiſe money, and avoid the preſſure (no leſs grievous to us then them) our People muſt have ſuffered by a longer continuance of ſo vaſt a Charge as two great Armies, and for their greater certaintie of having ſufficient time to reme<g ref="char:EOLhyphen"/>die the inconveniencies ariſen during ſo long an ab<g ref="char:EOLhyphen"/>ſence of Parliaments, and for the puniſhment of the Cauſers and Miniſters of them, We yeelded up our Right of diſſolving this Parliament, expecting an extraordinary moderation from it in gratitude for ſo unexampled a Grace, and little looking that any <hi>Ma<g ref="char:EOLhyphen"/>lignant Party</hi> ſhould have been encouraged or ena<g ref="char:EOLhyphen"/>bled to have perſwaded them, firſt to counte<g ref="char:EOLhyphen"/>nance the injuſtices and indignities we have endured, and then by a new way of Satisfaction for what was taken from us, to demand of us at once to
+<pb n="5" facs="tcp:46122:4"/> Confirme what was ſo taken, and to give up al<g ref="char:EOLhyphen"/>moſt all the reſt.</p>
+            <p>Since therefore the power Legally placed in both Houſes, is more then ſufficient to prevent and re<g ref="char:EOLhyphen"/>ſtrain the power of Tyranny, and without the pow<g ref="char:EOLhyphen"/>er which is now asked from us, We ſhall not be able to diſcharge that Truſt which is the end of Monar<g ref="char:EOLhyphen"/>chie, ſince this would be a total Subverſion of the Fundamental Laws, and that excellent Conſtituti<g ref="char:EOLhyphen"/>on of this Kingdome, which hath made this Nation ſo many years both Famous and happie to a great de<g ref="char:EOLhyphen"/>gree of Envie; ſince to the power of puniſhing (which is already in your hands according to Law) if the power of preferring be added, we ſhall have no<g ref="char:EOLhyphen"/>thing left for us, but to look on; ſince the incroach<g ref="char:EOLhyphen"/>ing of one of theſe Eſtates upon the power of the other is unhappy in the effects both to them and all the reſt; ſince this power of at moſt a joynt Go<g ref="char:EOLhyphen"/>vernment in us with our Counſellors, (or rather our Guardians) will return us to the worſt kinde of Mi<g ref="char:EOLhyphen"/>nority, and make us deſpicable both at home and a<g ref="char:EOLhyphen"/>broad, and beget eternal Factions and Diſſentions (as diſtructive to publick Happineſſe as Warre) both in the choſen, and the Houſes that chuſe them, and the people who chuſe the Chuſers; ſince ſo new a power will undoubtedly intoxicate perſons who were not born to it; and beget not onely Diviſi<g ref="char:EOLhyphen"/>ons among them as equal, but in them contempt of us as become an equal to them, and inſolence and injuſtice towards our people, as now ſo much their inferiours, which will be the more grievous unto them, as ſuffering from thoſe who were ſo lately of a nearer degree to themſelves, and being to have
+<pb n="6" facs="tcp:46122:5"/> redreſs only from thoſe that placed them, and fearing they may be enclined to preſerve what they have made, both out of kindneſs and policy; ſince all great changes are extreamly inconvenient, and almoſt infallibly beget yet greater changes, which beget yet greater inconveniences.</p>
+            <p>Since as great an one in the Church muſt; follow this of the Kingdome; Since the ſecond Eſtate would in all probabilitie follow the fate of the Firſt, and by ſome of the ſame turbulent ſpirits jealouſies would be ſoone raiſed againſt them; and the like Propoſitions for reconciliation of Differences would be then ſent to them, as they now have joyned to ſend to us, till (all power being veſted in the Houſe of Commons, and their number making them inca<g ref="char:EOLhyphen"/>pable of tranſacting Affairs of State with the neceſſary Secrecie and expedition; thoſe being retruſted to ſome cloſe Committee) at laſt the common people (who in the mean time must be flattered, and to whom Licence muſt be given in all their wild humours, how contrary ſoever to eſtabliſhed Law, on their own re<g ref="char:EOLhyphen"/>al Good) diſcover this <hi>Arcanum imperii,</hi> That all this was done by them, but not for them, grow weary of journy-work, and ſet up for themſelves, call Parity and Independence; Liberty; devoure that Eſtate which had devoured the reſt; Deſtroy all Rights and Proprieties, all diſtinctions of Fami<g ref="char:EOLhyphen"/>lies and Merit; And by this meanes this ſplendid and excellently diſtinguiſhed form of Government end in a dark equal <hi>Chaos</hi> of confuſion, and the long Line of our many noble Anceſtors in a <hi>Jack Cade,</hi> or a <hi>Wat Tyler:</hi>
+            </p>
+            <p>For all theſe Reaſons to all theſe demands, our
+<pb n="7" facs="tcp:46122:5"/> Anſwer is, <hi>Nolumus Leges Angliae mutari:</hi> But this we promiſe, that we will be as careful of preſerving the Lawes in what is ſuppoſed to concerne wholly our Subjects, as in what moſt concernes our Self: For indeed we profeſſe to believe, that the preſer<g ref="char:EOLhyphen"/>vation of every Law concerns us, thoſe of obedience being nor ſecure, when thoſe of protection are violated; And we being moſt of any injuried in the leaſt violation of that, by which we enjoy the higheſt Rights, and greateſt Benefits, and are there<g ref="char:EOLhyphen"/>fore obliged to defend no leſſe by our, intereſt then by our duty, and hope that no jealouſies to the contrary ſhall be any longer nouriſhed in any of our good peo<g ref="char:EOLhyphen"/>ple, by the ſubtil inſinuations, and ſecret practices of men, who for private ends are diſaffected to our honour and ſafety, and the peace and proſperity of our People. And to ſhew you, that no juſt indigna<g ref="char:EOLhyphen"/>tion at ſo reproachful offers ſhall make us refuſe to grant what is probable to conduce to the good of our good People, becauſe of the ill company it comes <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, We will ſearch carefully in this heap of unrea<g ref="char:EOLhyphen"/>ſonable demands, for ſo much as we may (complying with our conſcience, and the duty of our Truſt) aſſent unto, and ſhall accordingly agree to it.</p>
+         </div>
+         <div type="letters">
+            <pb n="8" facs="tcp:46122:6"/>
+            <div type="letter">
+               <head>Minute of a written LETTER ſent to many with the Printed one, and Project for an equitable and laſting Peace.</head>
+               <opener>
+                  <dateline>
+                     <date>July 1648.</date>
+                  </dateline>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Send you here with a project, the deſigne whereof is to unite all them of what opi<g ref="char:EOLhyphen"/>nion or party ſoever in Church or State, that are of this judgement, That the la<g ref="char:EOLhyphen"/>ter of them cannot be rendred more happy by any <g ref="char:V">Ʋ</g>topian alteration, then it may be by making ſufficient proviſion for the continuance of the well experimented government thereof within the ancient bounds, as it and they are already eſtabliſhed by the known Law of the Land: nor the former like ever to be ſettled again in any Government, till this be agreed upon on all ſides, That if it be the duty of the Civil Magiſtrate to make any Laws concerning Eccleſiaſtical Policy, then it is ſinne, becauſe Treaſon in this, and (I think) in all o<g ref="char:EOLhyphen"/>ther States for any man of any opinion by force of Arms to attempt the Reformation of the Laws in being, how con<g ref="char:EOLhyphen"/>trary
+<pb n="9" facs="tcp:46122:6"/> ſoever to the inſtitution of Jeſus Chriſt, or to the advancement of his Kingdome they may think thoſe Lawes to be. Of which judgement in both points you are con<g ref="char:EOLhyphen"/>ceived to be. That is all the reaſon of this addreſſe to you, and of this further request that you would be pleaſed to put other copies ſent herewith into the hands of wiſe men of your acquaintance, and of the ſame mind with you, upon the termes mentioned in the concluſion of the prefixed Letter; and to do me the honour to vonchſafe me your ſelf, and to procure me from them, ſuch an anſwer thereunto as I have had the preſumption for the matter to preſcribe, becauſe I beſt know my own end in deſiring it, being no other, but that I may imploy it to the facilitating of a ſafe, and well-grounded peace, which is the earneſt longing of all good men. I know not why you, or they, or any honest man ſhould be ſhie of doing me this favour for fear of any dan<g ref="char:EOLhyphen"/>ger: Yet becauſe the times are indeed very queazie, I ſend you hear with ſuch a direction for the conveyance of your Anſwer to me, that if you keep your own counſel it will be impoſſible for man to finde you out without my diſ<g ref="char:EOLhyphen"/>covering you, which I do hereby engage the faith of a Gentleman never to do without your leave: and perchance you may take that for ſome ſecurity, when I ſhall have told you that I have often written this ſentence of my own ma<g ref="char:EOLhyphen"/>king in the Books of many of my friends of divers Nations, <hi>Maximum ad vitam adjumentum intemerata fides,</hi> And that though this hand be unknown to you, yet he is not that maketh uſe of it to ſubſcribe himſelf as in truth he is,</p>
+               <closer>
+                  <salute>Sir,</salute> 
+                  <signed>Your moſt humble and faithful ſervant P. D.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="10" facs="tcp:46122:7"/>
+               <head>A Letter ſent to divers prudent per<g ref="char:EOLhyphen"/>ſons of all ſorts.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Humbly pray you to take the paines to peruſe firſt the Declaration of the Lords and Commons Aſſembled in Parliament, of the fourth and his Majeſties of the twelfth of <hi>Auguſt.</hi> 1642. After them the Conſiderations Dedicated to the Lord Mayor and Aldermen of the City in the yeare 1642. Comparing the ſecond ſheet thereof with a part of the Declaration of the Army of the 14. of <hi>June</hi> 1647. from thoſe words, [But becauſe neither the granting of this alone, &amp;c.] to theſe [we deſire that the right and freedome of the people to repreſent, &amp;c.] And in the laſt place the Project I ſend you with this, (built upon the ſame foundation: which was firſt layed in the Con<g ref="char:EOLhyphen"/>ſiderations, and which the Army once thought firme e<g ref="char:EOLhyphen"/>nough to ſupport their hopes of common and equall right, and freedom to themſelves, and to all the freeborn peo<g ref="char:EOLhyphen"/>ple of this Land) at as much leiſure as you may obtain from your many other great occaſions, and with as much attention as you may think fit to beſtow upon a piece of no more worth, bearing theſe thoughts in your minde while you are reading it.</p>
+               <p n="1">1. Whether it had not been honourable for the King and his Party ſafe for the Parliament and theirs, and equi<g ref="char:EOLhyphen"/>table for both, to have made a Peace upon the termes therein deſigned at the time of the writing thereof, which was upon the first newes of the <hi>Scots</hi> reſolution to
+<pb n="11" facs="tcp:46122:7"/> come into <hi>England</hi> the ſecond time, and from a de<g ref="char:EOLhyphen"/>ſire to have kept them out then by agreeing among our ſelves.</p>
+               <p n="2">2. Whether (under favour, and with all humbleneſs be it written) it had not been more conducible to the Re<g ref="char:EOLhyphen"/>formation and establiſhment of Religion in the King<g ref="char:EOLhyphen"/>domes of <hi>England,</hi> and <hi>Ireland</hi> in Doctrine, Worſhip, Diſcipline and Government, according to the Word of God, which ought to be the onely rule thereof) and to the ex<g ref="char:EOLhyphen"/>tirpation of Popery, Superstition, Hereſie, Schiſme, Pro<g ref="char:EOLhyphen"/>phaneneſs, and whatſoever may be found contrary to ſound Doctrine and the power of godlineſs: And to the preſer<g ref="char:EOLhyphen"/>vation and defence of the Kings Majeſties perſon, and au<g ref="char:EOLhyphen"/>thority of the rights and liberties of the Parliament of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> and the liberties and publick weale of this Kingdom, for the King and all the ſubjects thereof at that time to have come to a peace among themſelves upon the ſaid deſigned terms, then to have continued the War by calling in ſtrangers to their reſpective aſſiſtance upon the terms practiſed by one ſide, and in probability deſigned by the other.</p>
+               <p n="3">3. Whether it may not be thought more expedient for the two Houſes of the Parliament of <hi>England,</hi> and the whole people thereof, to come to an agreement with his Majeſty up<g ref="char:EOLhyphen"/>on the ſame terms at this time notwithſtanding the great alte<g ref="char:EOLhyphen"/>ration of affairs in their favor ſince the Project was deſigned, then either to engage in a new War againſt the <hi>Scots,</hi> with ſuch a diviſion among Engliſhmen as will be an indubi<g ref="char:EOLhyphen"/>table conſequent, if not an antecedent thereof, or to admit them to be Umpires in the affairs of <hi>England,</hi> as they will become, if the differences between his Majeſty and his Engliſh Subjects ſhould by Gods mercy come to an Accommodation up<g ref="char:EOLhyphen"/>on their third, as thoſe between his Majeſty and the <hi>Scots</hi> did upon their firſt bringing an Army into this Kingdom.</p>
+               <p n="4">
+                  <pb n="12" facs="tcp:46122:8"/>4. Wheather any, and what exception can be taken to the juſtice or equitableneſs of any particular Article of the Pro<g ref="char:EOLhyphen"/>ject, even at this time, without having reſpect to this practi<g ref="char:EOLhyphen"/>cableneſs thereof, whereof perhaps there may be leſſe doubt ere long, though I yet ſee no other ſufficient ground for it but this, that methinks the tyde is turning. Such are the revolutions of humane affairs.</p>
+               <p>And lastly, in caſe any of the ſaid Articles ſhall be judged though neither unjuſt, now unequal, yet impracticable, as things now ſtand, wheather the ſaid Project may not be re<g ref="char:EOLhyphen"/>duced to fit the preſent conjuncture of affairs with ſome addi<g ref="char:EOLhyphen"/>tions, abatements, or alterations; and what alterations, abate<g ref="char:EOLhyphen"/>ments, or additions may be found juſt and reaſonable for the two Houſes of Parliament to inſiſt upon, &amp; for his Majesty to yeeld unto in reſpect of the change &amp; preſent ſtate of affairs.</p>
+               <p>Secondly, to paſſe your cenſure, and let me know your ſenſe upon all the aforeſaid particulars with the freedom a free<g ref="char:EOLhyphen"/>man of this Kingdom, for whom I conceive it to be lawfull with due ſubmiſſion to thoſe in authority to confer together in a private way about the beſt means to recover, and maintain a laſting Peace in the Realm; eſpecially at a time when there is cauſe of fear that it may be yet longer diſcontinued by the coming in of ſtrangers in Arms, which is once more our con<g ref="char:EOLhyphen"/>dition at the preſent. And in particular, How you conceive the Militia may be ſettled ſo, as may be honourable for the King, and yet ſafe for his Parliament and Kingdom of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> according as is deſigned in the Project: Upon the recept of which favour from you, I do hereby engage myſelf to make you a return of my thoughts upon the fifth and laſt Ar<g ref="char:EOLhyphen"/>ticle, and by way of Advance do now let you know, that to the three firſt I ſhould make a ſhort Anſwer in the Affirmative, to the fourth in the Negative.</p>
+               <p>In the laſt place I do here promiſe you to keep your An<g ref="char:EOLhyphen"/>ſwer
+<pb n="13" facs="tcp:46122:8"/> to my ſelf only, if you ſhall ſo require me, or if I ſhall publiſh it with your leave, yet never to diſcover your name, if you ſhall command me to conceal it. In exchange of which pro<g ref="char:EOLhyphen"/>miſe I muſt crave one from you, to ſuffer no copy to be taken in writing, nor any new impreſſion to be made either of the Pro<g ref="char:EOLhyphen"/>ject, or of this Letter, until I may find the ſeaſon opportune for the Publication of them, which I do not as yet. And for that reaſon though I ſend you them in Print, to eaſe the trouble of tranſcribing, I have made ſure to have all the Copies in my own keeping. And ſo I remain.</p>
+               <closer>
+                  <salute>Sir,</salute>
+                  <signed>Your moſt humble ſervant. P.D.</signed>
+                  <dateline>
+                     <hi>Dated</hi> 
+                     <date>Junii—1648. <hi>the Climacterical year of this Kingdome.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head>POSCRIPT.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>UPon ſecond thoughts I find it neceſſary for me to give you a brief account why I did not publiſh this <hi>Project</hi> when it was firſt deſigned, nor in all the long time ſit hence elapſed, and yet have thoughts of doing it now. You may therefore pleaſe to underſtand, that my purpoſe at first was to have printed two Co<g ref="char:EOLhyphen"/>pies thereof, the one at <hi>London,</hi> the other at <hi>Oxford,</hi> to avoid the great prejudice of being reputed partial. But before I could effect this, it came to my knowledge that the writer of the Conſi<g ref="char:EOLhyphen"/>derations had found means to have them put into the hands of certain perſons of prime quality, and credit in both places, and had found that the corner-ſtone of his Conſiderations, and of my <hi>Project</hi> (borrowed from him) was rejected by ſome of too great power on both ſides, as he foreſaw, &amp; foretold it was like to be. This made me give over my purpoſe at that time. And from that time the Deſign lay by me as a neglected and uſeleſſe piece, till the Army having gotten the King into their power, was upon their march from <hi>Newmarket</hi> with an intention (as was voiced) to have brought his <hi>Majesty</hi> up to <hi>London</hi> without more ado. The apprehenſion I then had that this might prove very dangerous to the Common-wealth, (to the proſperity whereof, and of his
+<pb n="14" facs="tcp:46122:9"/> Majeſty, if I know my own heart, it beareth with an equal pulſe) stirred me ſo far that I was once more determined to have publiſhed my conceipt what, and no more was needful to be tranſ<g ref="char:EOLhyphen"/>acted before his Majeſties return to his Palace at <hi>Weſtminſter,</hi> and to that end had ſent this ſimple <hi>Project</hi> to a Licencer. In this nick of time forth came the Armies Declaration of the 14. of <hi>June,</hi> 1647. Wherein finding the maine of what I had ever thought very expedient, if not altogether neceſſary, to be mainly inſiſted on by Sir <hi>Thomas Fairfax,</hi> and his Officers and ſouldi<g ref="char:EOLhyphen"/>ers, I was much rejoyced to ſee the work whereunto I deſired to have contributed my weak endeavours to be taken into abler hands, and there I left it. Whether his excellency, and his chief Officers, (for the opinion of his common ſouldiers and their A<g ref="char:EOLhyphen"/>gitators is to be of no regard) be ſince fallen from what they <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> declared to be their deliberate, and determinate judgement, I leave him and them to give an account to God, and the World. I am ſure 'tis commonly believed, that they only made ſhew of being of the mind at large <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>preſſed in the fore mentioned Decla<g ref="char:EOLhyphen"/>ration to ingratiate themſelves with the Kingdom, till by that means they had quietly gotten all the ſtrength thereof into their own, and their parties hands: And that they are at preſent the moſt averſe of any other to a <hi>Perſonal Treatie</hi> at <hi>London,</hi> On the other ſide it is too manifest, that the generality of the City, and Countrey, are perhaps too violent for his Majeſty coming thither without engaging his Royal word to paſs the three Pre<g ref="char:EOLhyphen"/>paratory Bills, apprehended like to be of hard digestion to his Majeſty, and it is further apprehended that the two Houſes of Parliament may alſo happen to be divided upon this point. Per<g ref="char:EOLhyphen"/>chance a middle way may be found as faire, and ſafe, as either of the former, and not impaſſable either with his Majeſty or with the two Houſes. This induced me now to ſubmit my con<g ref="char:EOLhyphen"/>ceipt to cenſure of wiſer men. And if for the ground-work it ſhall be ſo happy as to receive any meaſure of approbation from any conſiderable number of ſuch as your ſelf, it is not impoſſible that I may be thereby emboldened to expoſe it to the eye of the people, which I conceive to be ſharper then the ſight of any one, or of any few of the wiſeſt men of the land. Sir, I crave your pardon for this addition to your trouble, and remain as before, and ever.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:46122:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
